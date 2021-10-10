@@ -1,0 +1,5 @@
+numpy
+Pillow
+tensorflow==2.5.1
+tabulate
+tqdm
